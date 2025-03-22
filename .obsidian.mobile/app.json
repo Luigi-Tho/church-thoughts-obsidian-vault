@@ -1,3 +1,32 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "highlightr-plugin:Yellow",
+    "highlightr-plugin:Green",
+    "highlightr-plugin:Red",
+    "highlightr-plugin:highlighter-plugin-menu",
+    "highlightr-plugin:unhighlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "ink:create-handwritten-section",
+    "ink:create-drawing-section",
+    "obsidian-icon-folder:iconize:set-icon-for-file",
+    "editor:configure-toolbar"
+  ]
 }

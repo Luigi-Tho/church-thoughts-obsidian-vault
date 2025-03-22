@@ -1,0 +1,9 @@
+{
+  "enableViewer": true,
+  "enableEditing": true,
+  "enableJSONViewer": true,
+  "enableDynamicUpdates": true,
+  "enableSyntaxHighlighting": true,
+  "defaultView": "markdown",
+  "gridItemsPerPage": 20
+}
