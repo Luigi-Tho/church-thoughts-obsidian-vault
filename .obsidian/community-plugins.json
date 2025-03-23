@@ -1,5 +1,8 @@
 [
   "obsidian-style-settings",
   "ink",
-  "settings-search"
+  "settings-search",
+  "sqlseal",
+  "obsidian-plugin-update-tracker",
+  "obsidian-tagfolder"
 ]
