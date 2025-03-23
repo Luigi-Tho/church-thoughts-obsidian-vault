@@ -28,5 +28,7 @@
     "ink:create-drawing-section",
     "obsidian-icon-folder:iconize:set-icon-for-file",
     "editor:configure-toolbar"
-  ]
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Quick Notes"
 }
