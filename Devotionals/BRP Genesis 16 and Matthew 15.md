@@ -1,3 +1,12 @@
+---
+id: brp-day-15
+aliases:
+  - brp day 15
+tags:
+  - devos
+  - genesis
+  - matthew
+---
 # BRP
 ## Genesis 16
 ```handwritten-ink

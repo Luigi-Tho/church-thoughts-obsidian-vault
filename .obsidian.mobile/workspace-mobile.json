@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "183dbb16898e4ce8",
+        "id": "346159363a8dbb5f",
         "type": "tabs",
         "children": [
           {
-            "id": "778183f5666eddb9",
+            "id": "a2b4abc1a432425f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Notes/Written in Stone 7.md",
+                "file": "Church Notes/Written in Stone 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Written in Stone 7"
             }
-          },
-          {
-            "id": "2e27e1db847e9c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raena’s Baby Dedication Verse.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Raena’s Baby Dedication Verse"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Weekly Standup Homepage.md",
+            "file": "Church Notes/Written in Stone 7.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Quick Notes/Written in Stone.md",
+            "file": "Church Notes/Written in Stone 7.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,10 +150,11 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,29 +163,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e27e1db847e9c92",
+  "active": "a2b4abc1a432425f",
   "lastOpenFiles": [
-    "Quick Notes/Written in Stone 7.md",
+    "Attachments/Pasted image 20250323115700.png",
+    "Attachments",
+    "Quick Notes/BRP Genesis 17 and Matthew 16.md",
+    "Raena’s Baby Dedication Verse.md",
+    "Ink/Writing/2025.3.24 - 11.37am.writing",
+    "Ink/Drawing/2025.3.24 - 11.31am.drawing",
+    "Ink/Writing/2025.3.24 - 11.30am.writing",
+    "Ink/Writing/2025.3.24 - 11.27am.writing",
+    "_Templates/Devos.md",
+    "Devotionals/BRP Genesis 16 and Matthew 15.md",
+    "Ink/Writing/2025.3.24 - 11.12am.writing",
+    "Ink/Writing/2025.3.24 - 11.09am.writing",
+    "Ink/Writing/2025.3.24 - 10.22am.writing",
+    "Ink/Drawing/2025.3.24 - 10.22am.drawing",
+    "Ink/Drawing",
+    "_Templates/Standup.md",
+    "_Templates/Notes.md",
+    "Devotionals/BRP Genesis 15 and Matthew 14.md",
+    "Devotionals/1 Corinthians Recap.md",
+    "Church Notes/Written in Stone 7.md",
     "Church Notes/Written in Stone 6.md",
-    "Pasted image 20250323115700.png",
-    "Ink/Writing/2025.3.23 - 11.27am.writing",
-    "Ink/Writing/2025.3.23 - 11.15am.writing",
-    "Ink/Writing/2025.3.23 - 11.08am.writing",
-    "Church Notes/Youth Service 8-13.pdf",
     "Devotionals/Psalms 126.md",
-    "Ink/Writing/2025.3.23 - 10.45am.writing",
     "Church Notes/Encounter 3.14.24.md",
     "Church Notes/Written In Stone 3 Taking the Lord’s Name.md",
-    "Raena’s Baby Dedication Verse.md",
-    "Ink/Writing/2025.3.21 - 9.58am.writing",
-    "Ink/Writing/2025.3.16 - 10.43am.writing",
-    "Ink/Writing/2025.3.21 - 10.14am.writing",
-    "Ink/Writing/2025.3.14 - 20.47pm.writing",
-    "Ink/Writing/2025.3.21 - 9.30am.writing",
     "Weekly Standup w God/Standup 3.16.25.md",
-    "Devotionals/BRP Genesis 15 and Matthew 14.md",
-    "Devotionals/BRP Genesis 16 and Matthew 15.md",
-    "Devotionals/1 Corinthians Recap.md",
     "Weekly Standup Homepage.md",
     "Weekly Standup w God/Standup 4.22.25.md"
   ]

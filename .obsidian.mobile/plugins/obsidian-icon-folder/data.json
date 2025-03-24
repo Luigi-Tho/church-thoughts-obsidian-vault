@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTextQuote",
       "LiPen",
       "LiChurch",
       "LiBook"
@@ -35,5 +36,9 @@
   "Devotionals": "LiBook",
   "Church Notes": "LiChurch",
   "Quick Notes": "LiPen",
-  "Devotionals/Psalms 126.md": "LiBook"
+  "Devotionals/Psalms 126.md": "LiBook",
+  "Weekly Standup w God": "LiTextQuote",
+  "Devotionals/1 Corinthians Recap.md": "LiBook",
+  "Devotionals/BRP Genesis 15 and Matthew 14.md": "LiBook",
+  "Devotionals/BRP Genesis 16 and Matthew 15.md": "LiBook"
 }

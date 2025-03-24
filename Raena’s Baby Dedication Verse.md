@@ -2,10 +2,11 @@
 id: baby-dedication
 aliases:
   - baby dedication
-  - jeremiah 1:5
+  - Jeremiah 1:5
 tags:
   - reflection
   - jesus/love
+  - jeremiah
 ---
 # My Dedication Verse
 

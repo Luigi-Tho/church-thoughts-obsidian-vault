@@ -6,5 +6,8 @@
   "emoji-shortcodes",
   "symbols-prettifier",
   "sqlseal",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "settings-search",
+  "omnisearch",
+  "text-extractor"
 ]
