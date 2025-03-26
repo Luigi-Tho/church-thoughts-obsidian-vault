@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devotionals/1 Corinthians Recap.md",
-                "mode": "source",
+                "file": "Weekly Standup w God/Standup 4.22.25.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Corinthians Recap"
+              "title": "Standup 4.22.25"
             }
           }
         ]
@@ -86,11 +86,13 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 384.50151109695435
+    "width": 384.50151109695435,
+    "collapsed": true
   },
   "right": {
     "id": "3aa6fc52ae796ba8",
@@ -169,17 +171,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "26ac752ab1532bb2",
+  "active": "8de4323b8ce6b61c",
   "lastOpenFiles": [
-    "Church Notes/Youth Service 8-13.pdf",
+    "Devotionals/1 Corinthians Recap.md",
+    "_Templates/Standup.md",
+    "_Templates/Notes.md",
+    "_Templates/Devos.md",
+    "_Templates",
+    "Reflections/Reflection 4.24.25.md",
+    "Reflections",
+    "Quick Notes/BRP Genesis 17 and Matthew 16.md",
+    "Quick Notes",
+    "Ink/Writing/2025.3.24 - 11.37am.writing",
+    "Ink/Writing/2025.3.24 - 11.30am.writing",
+    "Ink/Writing/2025.3.24 - 11.27am.writing",
+    "Ink/Writing/2025.3.24 - 11.12am.writing",
+    "Ink/Writing/2025.3.24 - 11.09am.writing",
+    "Ink/Writing/2025.3.24 - 10.22am.writing",
+    "Ink/Writing/2025.3.23 - 11.27am.writing",
+    "Church Notes/Written in Stone 7.md",
+    "Attachments/Pasted image 20250323115700.png",
     "Church Notes/Written In Stone 3 Taking the Lord’s Name.md",
     "Church Notes/Written in Stone 6.md",
     "Weekly Standup w God/Standup 3.16.25.md",
@@ -187,18 +209,7 @@
     "Devotionals/BRP Genesis 16 and Matthew 15.md",
     "Devotionals/BRP Genesis 15 and Matthew 14.md",
     "Weekly Standup Homepage.md",
-    "Devotionals/1 Corinthians Recap.md",
     "Devotionals/Psalms 126.md",
-    "Ink/Writing/2025.3.22 - 13.35pm.writing",
-    "Ink/Writing/2025.3.22 - 12.46pm.writing",
-    "Ink/Writing/2025.3.21 - 10.14am.writing",
-    "Ink/Writing/2025.3.21 - 10.05am.writing",
-    "Ink/Writing/2025.3.21 - 9.58am.writing",
-    "Ink/Writing/2025.3.21 - 9.34am.writing",
-    "Ink/Writing/2025.3.21 - 9.30am.writing",
-    "Ink/Writing/2025.3.16 - 11.23am.writing",
-    "Ink/Writing/2025.3.16 - 11.17am.writing",
-    "Ink/Writing/2025.3.16 - 10.43am.writing",
     "Church Notes/Encounter 3.14.24.md",
     "Weekly Standup w God/Standup 4.22.25.md"
   ]
