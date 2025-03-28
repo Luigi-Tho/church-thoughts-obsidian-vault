@@ -80,7 +80,7 @@ tags:
 	- compartmentalizing life + God
 	- compartmentalizing these standup meetings
 - <mark style="background: #BBFABBA6;">trust God with</mark>
-	- God fulfills His promises
+	- God fulfills His promises ([[BRP Genesis 17 and Matthew 16]], [[2 Corinthians 1]])
 		- the effort + care I’m putting into each area of my life is worth it
 	- God made me how I am on purpose
 		- care for people

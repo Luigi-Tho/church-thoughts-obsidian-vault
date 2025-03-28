@@ -14,8 +14,8 @@
   "writingDynamicStrokeThickness": true,
   "writingSmoothing": false,
   "writingLinesWhenLocked": true,
-  "writingBackgroundWhenLocked": true,
+  "writingBackgroundWhenLocked": false,
   "drawingEnabled": true,
-  "drawingFrameWhenLocked": false,
+  "drawingFrameWhenLocked": true,
   "drawingBackgroundWhenLocked": false
 }

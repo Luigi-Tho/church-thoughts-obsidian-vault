@@ -1,6 +1,12 @@
 ---
 aliases:
-  - "BRP: Genesis 15 and Matthew 14"
+  - genesis 15
+  - matthew 14
+  - brp day 14
+id: brp-day-14
+tags:
+  - devos
+date: ""
 ---
 did Matthew 15 instead…
 

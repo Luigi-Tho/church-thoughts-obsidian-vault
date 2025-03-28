@@ -2,6 +2,8 @@
 id: brp-day-15
 aliases:
   - brp day 15
+  - genesis 16
+  - matthew 15
 tags:
   - devos
   - genesis
